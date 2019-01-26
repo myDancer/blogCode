@@ -43,7 +43,8 @@ menu:
   tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-  anniversaries: /love
+  anniversaries:  https://mydancer.github.io/love
+  music: http://music.liangjiang.win
 
 
 # Enable/Disable menu icons.
@@ -63,6 +64,7 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
   anniversaries: heartbeat
+  music: music
 
 
 
